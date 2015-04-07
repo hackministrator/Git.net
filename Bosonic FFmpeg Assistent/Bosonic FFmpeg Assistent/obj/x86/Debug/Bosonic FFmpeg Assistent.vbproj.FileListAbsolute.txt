@@ -1,0 +1,10 @@
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Bosonic FFmpeg Assistent\Bosonic FFmpeg Assistent\bin\Debug\Bosonic FFmpeg Assistent.exe
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Bosonic FFmpeg Assistent\Bosonic FFmpeg Assistent\bin\Debug\Bosonic FFmpeg Assistent.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Bosonic FFmpeg Assistent\Bosonic FFmpeg Assistent\bin\Debug\Bosonic FFmpeg Assistent.xml
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Bosonic FFmpeg Assistent\Bosonic FFmpeg Assistent\obj\x86\Debug\Bosonic FFmpeg Assistent.vbprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Bosonic FFmpeg Assistent\Bosonic FFmpeg Assistent\obj\x86\Debug\Bosonic_FFmpeg_Assistent.Form1.resources
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Bosonic FFmpeg Assistent\Bosonic FFmpeg Assistent\obj\x86\Debug\Bosonic_FFmpeg_Assistent.Resources.resources
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Bosonic FFmpeg Assistent\Bosonic FFmpeg Assistent\obj\x86\Debug\Bosonic FFmpeg Assistent.vbproj.GenerateResource.Cache
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Bosonic FFmpeg Assistent\Bosonic FFmpeg Assistent\obj\x86\Debug\Bosonic FFmpeg Assistent.exe
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Bosonic FFmpeg Assistent\Bosonic FFmpeg Assistent\obj\x86\Debug\Bosonic FFmpeg Assistent.xml
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Bosonic FFmpeg Assistent\Bosonic FFmpeg Assistent\obj\x86\Debug\Bosonic FFmpeg Assistent.pdb
